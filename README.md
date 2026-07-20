@@ -48,4 +48,4 @@ To ensure a structured and professional development cycle, I have divided this p
 *   **Authentication:** Supabase Auth with SSR integration
 *   **Real-time:** Supabase WebSockets (`pg_changes`)
 
-*Developed by Immad Khan.*
+*Developed by Muhammad Immad (Intern ID: ZYNVEX-CERT-0613).*
