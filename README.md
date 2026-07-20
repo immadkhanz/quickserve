@@ -1,6 +1,6 @@
-# QuickServe 2.0 🍔
+# QuickServe 🍔
 
-Welcome to the **QuickServe 2.0** repository! This is a comprehensive, full-stack restaurant management system built as part of my Software Engineering Internship (Intern ID: ZYNVEX-CERT-0613). 
+Welcome to the **QuickServe** repository! This is a comprehensive, full-stack restaurant management system built as part of my Software Engineering Internship (Intern ID: ZYNVEX-CERT-0613). 
 
 This project is designed to modernize restaurant operations with a focus on real-time data, premium user experience, and robust role-based security.
 
