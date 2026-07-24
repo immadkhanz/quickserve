@@ -1,0 +1,130 @@
+{
+  "week1": [
+    {
+      "day": "Monday",
+      "msg": "Update project environment config",
+      "hash": "e32f5c503279d5a116798188acd9f5d8e26b84c8",
+      "date": "2026-07-27T10:00:00.000Z"
+    },
+    {
+      "day": "Tuesday",
+      "msg": "Upgrade Supabase SSR utilities",
+      "hash": "15c79994c8e251e0d506658f2b16ba83202ae047",
+      "date": "2026-07-28T10:00:00.000Z"
+    },
+    {
+      "day": "Wednesday",
+      "msg": "Implement premium dark mode global design system",
+      "hash": "967a7e87d0563db650d78c6d6a1467e3db6b8d2e",
+      "date": "2026-07-29T10:00:00.000Z"
+    },
+    {
+      "day": "Thursday",
+      "msg": "Build the animated Splash Landing Page",
+      "hash": "ed019ab5aca3d2465339c6044603948cc3e4b68d",
+      "date": "2026-07-30T10:00:00.000Z"
+    },
+    {
+      "day": "Friday",
+      "msg": "Implement role-based login routing logic",
+      "hash": "95452981fc7e4397cd9d0ee60b1f8812cfca61ea",
+      "date": "2026-07-31T10:00:00.000Z"
+    }
+  ],
+  "week2": [
+    {
+      "day": "Monday",
+      "msg": "Redesign Menu Card with glassmorphism",
+      "hash": "78e506403b22e75053d90231336336efd3702a59",
+      "date": "2026-08-03T10:00:00.000Z"
+    },
+    {
+      "day": "Tuesday",
+      "msg": "Create interactive category sidebar and search components",
+      "hash": "0536f0460b3bf78423e99684d86b84ae86181669",
+      "date": "2026-08-04T10:00:00.000Z"
+    },
+    {
+      "day": "Wednesday",
+      "msg": "Integrate dynamic Supabase data into the Menu Page",
+      "hash": "10bc87dafa14689a6abbef09596ffb1cd531348d",
+      "date": "2026-08-05T10:00:00.000Z"
+    },
+    {
+      "day": "Thursday",
+      "msg": "Update Cart Drawer to redirect to order tracking",
+      "hash": "593f157d7cd96aea557d7f83a62a465a56f1c6fa",
+      "date": "2026-08-06T10:00:00.000Z"
+    },
+    {
+      "day": "Friday",
+      "msg": "Menu responsiveness and UI polish",
+      "hash": "1f123c6a4541746ad55b432a5a671e9be6f70a3e",
+      "date": "2026-08-07T10:00:00.000Z"
+    }
+  ],
+  "week3": [
+    {
+      "day": "Monday",
+      "msg": "Create Order Tracking page layout",
+      "hash": "426838e62236b6da35fe053c609c656ab758e559",
+      "date": "2026-08-10T10:00:00.000Z"
+    },
+    {
+      "day": "Tuesday",
+      "msg": "Integrate Supabase WebSockets for live ETA countdown",
+      "hash": "79a3aa4d1313b919bc9b25ea3deb3eb2b2c6f1d6",
+      "date": "2026-08-11T10:00:00.000Z"
+    },
+    {
+      "day": "Wednesday",
+      "msg": "Add 5-star digital receipt and complaint form",
+      "hash": "ab7d7bfa62667a7debc59fbb5ef1a29c2744d340",
+      "date": "2026-08-12T10:00:00.000Z"
+    },
+    {
+      "day": "Thursday",
+      "msg": "Enforce strict edge middleware route protection",
+      "hash": "6377ab8263c7782810d5b3baa37c8b8daea9c77f",
+      "date": "2026-08-13T10:00:00.000Z"
+    },
+    {
+      "day": "Friday",
+      "msg": "Finalize customer checkout flow",
+      "hash": "8b6afbaf3b9adbdce45c3d71548cd40ba5cbcd90",
+      "date": "2026-08-14T10:00:00.000Z"
+    }
+  ],
+  "week4": [
+    {
+      "day": "Monday",
+      "msg": "Redesign Admin sidebar navigation and secure sign-out",
+      "hash": "b1d2206afbaf6a14f5c6de7d10797243313f031d",
+      "date": "2026-08-17T10:00:00.000Z"
+    },
+    {
+      "day": "Tuesday",
+      "msg": "Implement real-time admin revenue overview",
+      "hash": "1e99f5b3da427d3691d84eb4415fd55761bc5bbb",
+      "date": "2026-08-18T10:00:00.000Z"
+    },
+    {
+      "day": "Wednesday",
+      "msg": "Build full CRUD admin menu management panel",
+      "hash": "53f951d45c2ff642efcb4b4553dc155b81d88805",
+      "date": "2026-08-19T10:00:00.000Z"
+    },
+    {
+      "day": "Thursday",
+      "msg": "Create admin reviews inbox with complaint flagging",
+      "hash": "be892228d25736326136b64e3fbbc3157a14fa55",
+      "date": "2026-08-20T10:00:00.000Z"
+    },
+    {
+      "day": "Friday",
+      "msg": "Update Kitchen portal to calculate and broadcast ETA",
+      "hash": "744821f7e3d91beff9f859a7ef4aa63660015d41",
+      "date": "2026-08-21T10:00:00.000Z"
+    }
+  ]
+}
